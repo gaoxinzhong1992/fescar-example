@@ -61,3 +61,4 @@ DROP TABLE IF EXISTS `storage_tbl`;
 
 # 注意
 `修改classpath下application.conf中的localRgroup.grouplist ip`
+`fescar-server和server启动时一定要设置：-Djava.net.preferIPv4Stack=true`

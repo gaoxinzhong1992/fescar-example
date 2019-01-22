@@ -1,4 +1,4 @@
-# fescar-example
+# fescar-example（分布式事务中间件Fescar）
 
 **FESCAR: Fast & Easy Commit And Rollback**
 

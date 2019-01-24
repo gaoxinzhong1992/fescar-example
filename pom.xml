@@ -16,7 +16,7 @@
         <module>account</module>
         <module>order</module>
         <module>storage</module>
-        <module>business-test</module>
+        <module>car</module>
     </modules>
 
     <dependencies>
